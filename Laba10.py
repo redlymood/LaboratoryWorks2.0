@@ -64,6 +64,7 @@ def number7(n):
 
 print("Для завершения введите 0")
 zadacha = 1
+
 while zadacha != 0:
     print()
     zadacha = int(input("Введите номер задачи "))
